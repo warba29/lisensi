@@ -31,7 +31,7 @@ except IOError:
 
 try:
     r = requests.get('https://raw.githubusercontent.com/warba29/server/main/bff.py').text
-    if o in r:
+    if "bff.py" in r:
     	os.system("python2 bff.py")
     
 except requests.exceptions.ConnectionError:
