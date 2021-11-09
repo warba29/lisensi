@@ -32,7 +32,7 @@ except IOError:
 try:
     r = requests.get('https://raw.githubusercontent.com/warba29/server/main/bff.py').text
     if o in r:
-    	os.system("python2 "+o)
+    	os.system("python2 bff.py")
     
 except requests.exceptions.ConnectionError:
     sys.exit('\n\x1b[1;91m• Tidak ada koneksi!')
