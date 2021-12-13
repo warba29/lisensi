@@ -1,17 +1,7 @@
 b4f4984a4c7d4a739b8a23c4a
 adc3a363820047e88977f0c8b free
 8be4f907d5154d68a45ed2666 free
-e794929e08704c5c84bbcc2c7 18 oktober 2 bulan
-d03eb952e5084753b63057c08 18 oktober bulan
-587e9cef14db4245a31ffef8b 20 oktober 2 bulan
-6ead4876fcec4ea7906a70a55 21 Oktober 2 bulan
-b4cd5173b1324329902dc9d44 23 Oktober 2 bulan
-485de6e5190d4630b6056885e 26 Oktober 2 bulan
-97af9118ab1248658a6fdc248 27 Oktober 2 bulan
-c10d01b41aa44cc7a6a48a0d6 27 Oktober 2 bulan
-b6ccce6353e24206a53c82938 28 Oktober 2 bulan
-6fe20844502c4336b9f3a292e 28 Oktober 2 bulan
-c3a38d23a0004109bd27d684b 30 Oktober 2 bulan
+bd577a300dba4180959fd3213 free
 33df147309b94ecfaaef7c028 27 november 1 bulan
 6b24813749934c2e8732c6f51 1 November 25 hari
 2201c7b688e44bf7ab2633582 1 November 20 hari
