@@ -1,20 +1,5 @@
 3917631cf8e54cdda7f3bbd3a
-fdf9cb1f559648d6a070a01bf 26 desember 1 bulan
-6b24813749934c2e8732c6f51 1 November 25 hari
-2201c7b688e44bf7ab2633582 1 November 20 hari
-03d787da960246989ed0186f6 6 November 1 bulan
-3a95b5004e064acc808a0b24e 14 desember 1 bulan
-a2c3a06afa2b4f119ea86f377 8 November 1 bulan
-c98cfb869ff24814818c7db19 11 November 1 bulan
-27bf458182ff4d1c8f108f55b 13 2 hari
-428d7f150b3840d7bb9468418 13 November 1 bulan
-3a5192ee084b4282a117bd529 28 November 1 bulan
-f91ee09b8caa42629d8676b98 2 Desember 1 bulan
-6f4d2d8e8b744210bea76cfbe 3 Desember 1 bulan
 ba4c8474c9e942e885e528347 4 Desember 2021 1 bulan
-dad371b11d9749ca8ea5a00ac 8 Desember 1 bulan
-ac380dd7938045e5809c4489e 10 Desember 1 bulan
-f1653378869b4c1db2408e270 riski
 61345f18d5dd49f89e38f25c4 11 Desember 1 bulan 
 bcbde3465ab14374bab27ae70 16 Desember 1 bulan
 9b0c4e5723fb459fa89c92fa6 22 Desember 1 minggu
@@ -24,7 +9,6 @@ c91981c978c1458385778fcd5 23 Desember 1 bulan
 7c5ccd8e554a4ae7bb461987e 26 desember 1 bulan
 9a992e149778491c85c9e3ad4 26 desember 1 minggu
 87b94d6e6d644995bd3db26ec fajar
-e72f45c6cebf4e9bac6d5338a 28 desember 10k 3 hati
 e5d488540bd043e7a56dcb2ee 29 Desember 1 minggu
 85a74f494003412d8c2287c41 31 Desember 1 bulan
 71a05792638f44feaba41ab25 1 Januari 1 minggu
